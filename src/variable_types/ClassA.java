@@ -7,6 +7,7 @@ public static void main(String[] args) {// main method body open
 	int i=30; 
  //it is inside the main method body hence it is called as local variable
 	System.out.println(i);
+	System.out.println(comments from github);
 	
 }//main method body close
 
